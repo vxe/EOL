@@ -4,10 +4,10 @@
 #+OPTIONS: toc:nil
 
 * algorithms
-  - linear-lists
-  - rectangular-lists
-  - trees
-  - graphs
+  - [[file:./linear-lists.org][linear-lists]]
+  - [[file:./rectangular-lists.org][rectangular-lists]]
+  - [[file:./trees.org][trees]]
+  - [[file:./graphs.org][graphs]]
 * libraries
 - [[file:./clojure.org][clojure]]
 - [[file:./hy.org][hy]]
