@@ -3,6 +3,9 @@
 #+STARTUP: indent
 #+OPTIONS: toc:nil
 
+* ctci
+* cph
+* rosetta code
 100 doors
 15 Puzzle Game
 15 puzzle solver
