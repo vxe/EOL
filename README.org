@@ -4,12 +4,13 @@
 #+OPTIONS: toc:nil
 
 * algorithms
-  - [[file:./puzzles.org][puzzles]]
-  - [[file:./linear-lists.org][linear-lists]]
-  - [[file:./rectangular-lists.org][rectangular-lists]]
-  - [[file:./trees.org][trees]]
-  - [[file:./graphs.org][graphs]]
+Implementations of algorithms in mathematical pseudocode,lisp and c++
+- [[file:./linear-lists.org][linear-lists]]
+- [[file:./rectangular-lists.org][rectangular-lists]]
+- [[file:./trees.org][trees]]
+- [[file:./graphs.org][graphs]]
 * libraries
+Notes and reviews of new libraries
 - [[file:./clojure.org][clojure]]
 - [[file:./hy.org][hy]]
 - [[file:./common-lisp.org][common-lisp]] 
