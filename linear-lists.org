@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil
 
 
-[[./SPLIT.org][- SPLIT]]
+- [[./SPLIT.org][SPLIT]]
 - [[./INSERT.org][INSERT]]
 - [[./SORT.org][SORT]]
 - [[./DELETE.org][DELETE]]
@@ -33,7 +33,7 @@
 - [[./INCREMENT.org][INCREMENT]]
 
 * array
-[[./HOARE-PARTITION.org][- HOARE-PARTITION]]
+- [[./HOARE-PARTITION.org][HOARE-PARTITION]]
 - [[./DETERMINISTIC-SEARCH.org][DETERMINISTIC-SEARCH]]
 - [[./SCRAMBLE-SEARCH.org][SCRAMBLE-SEARCH]]
 - [[./SUM-ARRAYS.org][SUM-ARRAYS]]
@@ -100,7 +100,7 @@
 - [[./2SWAP.org][2SWAP]]
 
 * queue
-[[./deque.org][- deque]]
+- [[./deque.org][deque]]
 - [[./DEQUEUE.org][DEQUEUE]]
 - [[./ENQUEUE.org][ENQUEUE]]
 * sequence
