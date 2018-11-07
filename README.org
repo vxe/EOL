@@ -1,0 +1,27 @@
+# -*- mode:org;  -*-
+#+TITLE: Encyclopedia of Lisp
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+
+* algorithms
+  - linear-lists
+  - rectangular-lists
+  - trees
+  - graphs
+* libraries
+- [[file:./clojure.org][clojure]]
+- [[file:./hy.org][hy]]
+- [[file:./common-lisp.org][common-lisp]] 
+- [[file:./lfe.org][lfe]]
+- [[file:./pixie.org][pixie]]
+- nyquist
+
+
+
+
+
+# Local Variables:
+# eval: (wiki-mode)
+# End:
+
+

@@ -1,0 +1,30 @@
+# _*_ mode:org _*_
+#+TITLE: common-lisp
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+
+
+- c++-interop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Local Variables:
+# eval: (wiki-mode)
+# End:

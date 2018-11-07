@@ -1,0 +1,30 @@
+# _*_ mode:org _*_
+#+TITLE: clojure
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+
+
+- java-interop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Local Variables:
+# eval: (wiki-mode)
+# End:

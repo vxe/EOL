@@ -1,0 +1,27 @@
+# _*_ mode:org _*_
+#+TITLE: pixie
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+
+- c-interop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Local Variables:
+# eval: (wiki-mode)
+# End:
