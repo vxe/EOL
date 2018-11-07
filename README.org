@@ -4,6 +4,7 @@
 #+OPTIONS: toc:nil
 
 * algorithms
+  - [[file:./puzzles.org][puzzles]]
   - [[file:./linear-lists.org][linear-lists]]
   - [[file:./rectangular-lists.org][rectangular-lists]]
   - [[file:./trees.org][trees]]
