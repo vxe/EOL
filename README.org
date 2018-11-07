@@ -2,7 +2,7 @@
 #+TITLE: Encyclopedia of Lisp
 #+STARTUP: indent
 #+OPTIONS: toc:nil
-
+A reference book of algorithms and lisp libraries
 * algorithms
 Implementations of algorithms in mathematical pseudocode,lisp and c++
 - [[file:./linear-lists.org][linear-lists]]
